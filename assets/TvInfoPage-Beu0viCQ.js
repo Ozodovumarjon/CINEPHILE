@@ -1,0 +1,1 @@
+import{_ as e}from"./Media-B96R1Pyq.js";import{c as a,a as t,o}from"./index-B3ltF1qr.js";const m={__name:"TvInfoPage",setup(r){return(c,n)=>(o(),a("main",null,[t(e,{type:"tv"})]))}};export{m as default};

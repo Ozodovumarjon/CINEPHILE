@@ -1,0 +1,1 @@
+import{_ as e}from"./Media-B96R1Pyq.js";import{c as a,a as o,o as t}from"./index-B3ltF1qr.js";const s={__name:"MovieInfoPage",setup(r){return(c,n)=>(t(),a("main",null,[o(e,{type:"movie"})]))}};export{s as default};
